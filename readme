@@ -1,0 +1,2 @@
+# chatbot-using-retrieval-based-approach-
+README.mdProcessed data from  web pages and extensively explored LLM models, with a focus on Transformer, BERT, and T5 models for chatbot development. Successfully adopted the Dolly v2 model and implemented a retrieval-based approach, selecting the best response based on cosine similarity. Developed a User Query Classifier and integrated a feedback system. Also, seamlessly integrated another ML model with the chatbot.
